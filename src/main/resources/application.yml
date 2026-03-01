@@ -1,0 +1,11 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: Spring-AI-Rag
+
+dify:
+  api:
+    base-url: http://localhost/v1
+    key: app-AAaIc6lpu9RkUr0VvbvDopR6
